@@ -1,0 +1,58 @@
+/* Configuration globale de la page */
+body {
+    background-color: #0f172a; /* Bleu nuit moderne */
+    color: #f8fafc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Style de la carte centrale */
+.card {
+    background-color: #1e293b;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    max-width: 400px;
+    border: 1px solid #334155;
+}
+
+/* Style de l'image circulaire */
+.profile-img {
+    border-radius: 50%;
+    border: 3px solid #38bdf8; /* Accent bleu cyan */
+    margin-bottom: 15px;
+}
+
+h1 {
+    margin: 10px 0;
+    font-size: 24px;
+    color: #38bdf8;
+}
+
+.subtitle {
+    color: #94a3b8;
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+/* Style du bouton d'action */
+button {
+    background-color: #38bdf8;
+    color: #0f172a;
+    border: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button:hover {
+    background-color: #0ea5e9; /* Changement de couleur au survol */
+}
