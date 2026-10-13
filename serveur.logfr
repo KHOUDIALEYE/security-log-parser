@@ -1,0 +1,5 @@
+2026-10-13 10:00:01 - INFO - Connexion réussie utilisateur Alice
+2026-10-13 10:02:15 - ERROR - Échec de connexion utilisateur Unknown
+2026-10-13 10:05:30 - INFO - Connexion réussie utilisateur Bob
+2026-10-13 10:08:42 - ERROR - Échec de connexion utilisateur Unknown
+2026-10-13 10:12:00 - WARNING - Mémoire système faible
