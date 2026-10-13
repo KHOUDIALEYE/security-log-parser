@@ -1,3 +1,2 @@
-=== RAPPORT D'ANALYSE POUR : WARNING ===
+=== RAPPORT D'ANALYSE POUR : & C:\Users\Dynabook\AppData\Local\Python\pythoncore-3.15-64\python.exe c:/Users/Dynabook/.vscode/index.html/analyseur.py ===
 
-2026-10-13 10:12:00 - WARNING - Mémoire système faible
